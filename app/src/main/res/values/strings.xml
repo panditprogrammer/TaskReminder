@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskReminder</string>
+    <string name="todoBtn">Add Task</string>
+    <string name="inputBox">Enter Task here</string>
+    <string name="apptitle">IMPORTANT REMINDER</string>
+    <string name="todoTitle">Your Last Updated Tasks</string>
+</resources>
